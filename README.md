@@ -1,1 +1,1 @@
-backup of somefile on my pc
+Small sperated project to help my life as an engineer
