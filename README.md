@@ -12,6 +12,7 @@
 - **Engineering Automation & CAD Tools:** Developing lightweight utilities for DXF parsing, coordinate transformation, and CAD workflow integration.
 - **Mine Infrastructure & Operational Analytics:** Haul road optimization, dewatering system analysis, drainage planning, and data-driven process improvements.
 - **Internal Tooling:** Building custom Python and Flutter tools to automate engineering calculations and technical reporting.
+- **Side Projects & Creative Web:** Building tactile, high-performance web applications and digital utilities ([SNAP Photobooth](https://github.com/fikriardyant/snap)).
 
 ---
 
